@@ -46,7 +46,7 @@ pefile==2023.2.7
 pillow==10.3.0
 protobuf==4.25.3
 pyarrow==16.1.0
-pydantic==2.7.3
+pydantic==1.10.9
 pydantic_core==2.18.4
 pydeck==0.9.1
 Pygments==2.18.0
