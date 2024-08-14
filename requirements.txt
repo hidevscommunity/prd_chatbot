@@ -26,11 +26,11 @@ jsonpatch==1.33
 jsonpointer==2.4
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
-langchain==0.2.1
-langchain-community==0.2.1
-langchain-core==0.2.3
-langchain-text-splitters==0.2.0
-langsmith==0.1.66
+langchain==0.2.2
+langchain-community==0.2.2
+langchain-core==0.2.4
+langchain-text-splitters==0.2.1
+langsmith==0.1.70
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 marshmallow==3.21.2
@@ -46,8 +46,8 @@ pefile==2023.2.7
 pillow==10.3.0
 protobuf==4.25.3
 pyarrow==16.1.0
-pydantic==2.7.2
-pydantic_core==2.18.3
+pydantic==2.7.3
+pydantic_core==2.18.4
 pydeck==0.9.1
 Pygments==2.18.0
 pypdf==4.2.0
